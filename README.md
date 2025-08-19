@@ -1,5 +1,5 @@
 
-# @@ # OCR Dashboard
+# OCR Dashboard
 
 
 A lightweight desktop application for performing Optical Character Recognition (OCR) on images using [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and Python. Built with PyQt5, this tool allows users to select a folder of images, extract text from each file, preview the results, clean them automatically, and save the output to a file.
